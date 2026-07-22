@@ -31,6 +31,8 @@ const imperion = {
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imPERION66&theme=dark" alt="GitHub Streak Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPERION66&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
@@ -45,11 +47,17 @@ const imperion = {
 
 ### Tecnologías
 
+<h4 align="center">Frontend</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+<h4 align="center">Herramientas & Diseño</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
@@ -66,6 +74,11 @@ const imperion = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+---
+
+### ⚡ Dato curioso
+> *Como estudiante de programación, he aprendido que el café no solo es una bebida, sino un catalizador que convierte "esto no funciona" en "¡ah, ya vi el punto y coma que faltaba!". La perseverancia es la clave de todo gran desarrollador.* ☕💻✨
 
 ---
 
