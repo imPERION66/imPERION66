@@ -72,12 +72,17 @@ const yhomar = {
 
 ---
 
+### ⚡ Dato curioso
+> *Como estudiante de programación, he aprendido que el café no solo es una bebida, sino un catalizador que convierte "esto no funciona" en "¡ah, ya vi el punto y coma que faltaba!". La perseverancia es la clave de todo gran desarrollador.* ☕💻✨
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imPERION66&style=flat-square&color=00d9ff&label=VISITAS+AL+PERFIL" />
 </div>
 
 <div align="center">
 
-  *"Haced de tripas corazón."*
+  *"La mejor forma de predecir el futuro es creándolo. ¡Nunca dejes de programar!"*
 
 </div>
